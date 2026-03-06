@@ -1,0 +1,11 @@
+﻿EmployeeID,FullName,Department,JobTitle,Salary,HireDate,OfficeCity,Email,ActiveProjects,PerformanceRating,RemoteStatus
+101,Alice Wang,Engineering,Lead Developer,125000,12-03-2021,Singapore,a.wang@corp.com,4,9.2,No
+102,Marcus Thorne,Marketing,SEO Specialist,78000,19-05-2022,London,m.thorne@corp.com,2,8.5,Yes
+103,Elena Rossi,Product,Product Manager,110000,02-11-2020,Milan,e.rossi@corp.com,5,9,No
+104,David Chen,Sales,Account Exec,95000,15-01-2023,New York,d.chen@corp.com,3,7.8,No
+105,Sarah Jenkins,HR,HR Business Partner,82000,24-08-2019,Chicago,s.jenkins@corp.com,1,8.9,Yes
+106,Hiroshi Sato,Engineering,QA Engineer,88000,30-06-2021,Tokyo,h.sato@corp.com,4,9.5,No
+107,Laila Ahmed,Design,UI/UX Designer,92000,14-02-2022,Dubai,l.ahmed@corp.com,3,8.2,Yes
+108,Kevin O'Brian,Finance,Analyst,85000,10-04-2020,Dublin,k.obrian@corp.com,2,7.4,No
+109,Sofia Mendes,Engineering,Backend Dev,105000,12-09-2021,Sao Paulo,s.mendes@corp.com,6,9.1,Yes
+110,James Wilson,Support,Support Lead,65000,20-05-2023,Austin,j.wilson@corp.com,2,8,No
