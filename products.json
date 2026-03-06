@@ -1,0 +1,14 @@
+{
+  "products": [
+    { "sku": "A101", "name": "Wireless Mouse", "price": 25.99, "stock": 50 },
+    { "sku": "B202", "name": "Mechanical Keyboard", "price": 89.50, "stock": 20 },
+    { "sku": "C303", "name": "USB-C Hub", "price": 45.00, "stock": 100 },
+    { "sku": "D404", "name": "Monitor Stand", "price": 32.99, "stock": 15 },
+    { "sku": "E505", "name": "Webcam HD", "price": 59.99, "stock": 35 },
+    { "sku": "F606", "name": "Laptop Sleeve", "price": 19.99, "stock": 80 },
+    { "sku": "G707", "name": "Desk Lamp", "price": 29.50, "stock": 12 },
+    { "sku": "H808", "name": "Gaming Chair", "price": 199.00, "stock": 5 },
+    { "sku": "I909", "name": "Noise Cancelling Headphones", "price": 129.99, "stock": 25 },
+    { "sku": "J111", "name": "External SSD", "price": 110.00, "stock": 40 }
+  ]
+}

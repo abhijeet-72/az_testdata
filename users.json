@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice Johnson", "role": "Admin", "active": true },
+    { "id": 2, "name": "Bob Smith", "role": "User", "active": false },
+    { "id": 3, "name": "Charlie Davis", "role": "Editor", "active": true },
+    { "id": 4, "name": "Diana Prince", "role": "User", "active": true },
+    { "id": 5, "name": "Ethan Hunt", "role": "Admin", "active": false },
+    { "id": 6, "name": "Fiona Glenanne", "role": "User", "active": true },
+    { "id": 7, "name": "George Bluth", "role": "Editor", "active": true },
+    { "id": 8, "name": "Hannah Abbott", "role": "User", "active": false },
+    { "id": 9, "name": "Ian Wright", "role": "Admin", "active": true },
+    { "id": 10, "name": "Jane Doe", "role": "User", "active": true }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "orders": [
+    { "orderId": 5001, "total": 120.50, "status": "Shipped" },
+    { "orderId": 5002, "total": 45.00, "status": "Pending" },
+    { "orderId": 5003, "total": 210.30, "status": "Delivered" },
+    { "orderId": 5004, "total": 15.99, "status": "Cancelled" },
+    { "orderId": 5005, "total": 88.00, "status": "Shipped" },
+    { "orderId": 5006, "total": 32.50, "status": "Pending" },
+    { "orderId": 5007, "total": 500.00, "status": "Delivered" },
+    { "orderId": 5008, "total": 12.99, "status": "Shipped" },
+    { "orderId": 5009, "total": 75.25, "status": "Delivered" },
+    { "orderId": 5010, "total": 99.99, "status": "Processing" }
+  ]
+}

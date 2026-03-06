@@ -1,0 +1,39 @@
+
+{
+  "users": [
+    { "id": 1, "name": "Alice Johnson", "role": "Admin", "active": true },
+    { "id": 2, "name": "Bob Smith", "role": "User", "active": false },
+    { "id": 3, "name": "Charlie Davis", "role": "Editor", "active": true },
+    { "id": 4, "name": "Diana Prince", "role": "User", "active": true },
+    { "id": 5, "name": "Ethan Hunt", "role": "Admin", "active": false },
+    { "id": 6, "name": "Fiona Glenanne", "role": "User", "active": true },
+    { "id": 7, "name": "George Bluth", "role": "Editor", "active": true },
+    { "id": 8, "name": "Hannah Abbott", "role": "User", "active": false },
+    { "id": 9, "name": "Ian Wright", "role": "Admin", "active": true },
+    { "id": 10, "name": "Jane Doe", "role": "User", "active": true }
+  ],
+  "products": [
+    { "sku": "A101", "name": "Wireless Mouse", "price": 25.99, "stock": 50 },
+    { "sku": "B202", "name": "Mechanical Keyboard", "price": 89.50, "stock": 20 },
+    { "sku": "C303", "name": "USB-C Hub", "price": 45.00, "stock": 100 },
+    { "sku": "D404", "name": "Monitor Stand", "price": 32.99, "stock": 15 },
+    { "sku": "E505", "name": "Webcam HD", "price": 59.99, "stock": 35 },
+    { "sku": "F606", "name": "Laptop Sleeve", "price": 19.99, "stock": 80 },
+    { "sku": "G707", "name": "Desk Lamp", "price": 29.50, "stock": 12 },
+    { "sku": "H808", "name": "Gaming Chair", "price": 199.00, "stock": 5 },
+    { "sku": "I909", "name": "Noise Cancelling Headphones", "price": 129.99, "stock": 25 },
+    { "sku": "J111", "name": "External SSD", "price": 110.00, "stock": 40 }
+  ],
+  "orders": [
+    { "orderId": 5001, "total": 120.50, "status": "Shipped" },
+    { "orderId": 5002, "total": 45.00, "status": "Pending" },
+    { "orderId": 5003, "total": 210.30, "status": "Delivered" },
+    { "orderId": 5004, "total": 15.99, "status": "Cancelled" },
+    { "orderId": 5005, "total": 88.00, "status": "Shipped" },
+    { "orderId": 5006, "total": 32.50, "status": "Pending" },
+    { "orderId": 5007, "total": 500.00, "status": "Delivered" },
+    { "orderId": 5008, "total": 12.99, "status": "Shipped" },
+    { "orderId": 5009, "total": 75.25, "status": "Delivered" },
+    { "orderId": 5010, "total": 99.99, "status": "Processing" }
+  ]
+}
